@@ -1,0 +1,13 @@
+# KiCad
+*.lck
+fp-info-cache
+KiCad KapTester V2/.history/
+KiCad KapTester V2/KapTesterV2-backups/
+
+# Firmware - Compiled binaries
+*.elf
+Firmware/SAVES/
+
+# Windows
+Thumbs.db
+desktop.ini

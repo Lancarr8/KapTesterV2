@@ -1,0 +1,9 @@
+1. Deckblatt, 
+2. Erklärung, 
+3. Kopie Antrag
+4. Kurzbeschreibung + IST/SOLL
+5. Information: Lastenheft (incl. Schnittstellen) + Blockschaltbild, Datenblätter, Schaltplanauszug
+6. Planung: Ablaufplan, BOM, Risikoanalyse, Schnistellen
+7. Durchführung: Löt- Montageprotokoll, Fotos, 
+8. Bewertung: Inbetriebnahmeprotokoll, Messprotokoll, Abnahmeprotokoll, Bedienungsanleitung
+9. Extras: Abkürzungen, README, Selbsteinschätzung, Bauteilewahl
